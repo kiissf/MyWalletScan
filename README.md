@@ -2,13 +2,7 @@
 
 <h1 align="center">MyWalletScan</h1>
 
-一键免费部署空投看板
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FluoyeETH%2FMyWalletScan)
-
 </div>
-
-> 基于https://github.com/wxtsky/MyWalletScan 修改
 
 ## 关于
 
@@ -32,10 +26,6 @@ npm run dev
 4. 本项目仅供学习交流使用，不提供任何形式的技术支持，使用本项目产生的任何后果与本人无关。
 5. 大家卷起来吧！
 ```
-
-## 使用
-
-https://airdrop.dddd8.xyz/
 
 
 
